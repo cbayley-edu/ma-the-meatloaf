@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Ma! The Meatloaf!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" />
+    <link rel="stylesheet" href="./assets/style.css" />
+</head>
+
+<body>
+    <nav>
+        <div class="nav-wrapper">
+            <a href="#" class="brand-logo">Hey Ma! Where's the Meatloaf?</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="saved-recipes.html">Saved Recipes</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="row">
+        <div class="input-field col s4">
+            <input id="keyword-search" type="text" placeholder="meatloaf" class="validate" />
+            <label for="keyword-search"></label>
+            <div class="row">
+                <div class="col s6">
+                    <span class="helper-text">Recipe Keyword Search</span>
+                </div>
+                <div class="col s6 criteriaLink">
+                    <a class="modal-trigger" id="modalLink" href="#modal1">Additional Search Criteria</a>
+                </div>
+            </div>
+        </div>
+        <br />
+        <button class="searchBtn" id="searchBtn">
+            <i class="fa fa-search"></i>
+        </button>
+    </div>
+
+    <div id="modal1" class="modal">
+        <div class="modal-content">
+          <label for="time-search">Max Prep Time</label>
+          <input id="time-search" type="text" placeholder="30" class="validate" />
+          <label for="num-ingredients">Max Ingredients</label>
+          <input id="num-ingredients" type="text" placeholder="5" class="validate" />
+          <label for="calories">Max Calories per Serving</label>
+          <input id="calories" type="text" placeholder="400" class="validate" />
+          <div class="input-field col s12" id="diet-type">
+            <select>
+              <option value="" disabled selected>Choose your option</option>
+              <option value="1">Balanced</option>
+              <option value="2">High-Protein</option>
+              <option value="3">High-Fiber</option>
+              <option value="4">Low-Fat</option>
+              <option value="5">Low-Carb</option>
+              <option value="6">Low-Sodium</option>
+            </select>
+            <label>Diet Type</label>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <a href="#!" id="modal-search" class="modal-close waves-effect waves-green btn-flat">Search</a>
+        </div>
+    </div>
+
+    <h6>Recent Searches</h6>
+    <br>
+
+    <div id="recent-searches"></div>
+
+    <div class="recipeResults"></div>
+
+
+    <!-- Adding Date FNS Script -->
+    <!-- <script src="https://cdn.date-fns.org/v1.9.0/date_fns.min.js"></script>
+    <script>
+        dateFns.isToday(new Date())
+        //=> true
+    </script> -->
+    <script src="./assets/date-fns.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="./assets/script.js"></script>
+</body>
+
+</html>
