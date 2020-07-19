@@ -1,4 +1,8 @@
 # Hey Ma! Where's the Meatloaf? (a recipe search engine)
+### Team Project 1
+
+### Disclaimer
+This was our first class project and was completed as a team. The application was originally deployed to another teammate's repo. The link is noted below.
 
 ### TOC
 * [Overview](#overview)
