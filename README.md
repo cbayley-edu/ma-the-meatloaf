@@ -21,9 +21,8 @@ Hey Ma! Where's the Meatloaf? was created as a tool for people who are looking f
 
 ## Application
 
-Use this link to access this application: https://cbayley-edu.github.io/ma-the-meatloaf
-
-Use this link to access the repository: https://github.com/cbayley-edu/ma-the-meatloaf
+* Use this link to access this application: https://cbayley-edu.github.io/ma-the-meatloaf
+* Use this link to access the repository: https://github.com/cbayley-edu/ma-the-meatloaf
 
 ## Usage
 
