@@ -44,9 +44,9 @@ Hey Ma! Where's the Meatloaf? was created as a tool for people who are looking f
 
 ## Authors 
 Presented by Team “Do You Want Fries With That?”
- * Christina Bayley
- * Brian Harvey
- * Michel Pierre-Gilles
+ * Christina Bayley  https://github.com/cbayley-edu
+ * Brian Harvey  https://github.com/harveyb4b
+ * Michel Pierre-Gilles  https://github.com/mpierre-gilles93
 
 ## Future Releases
 There are several updates that the team would like to make to this application to ensure a better user experience. Future releases will include items from the Ice Box as well as items acquired from user feedback.
