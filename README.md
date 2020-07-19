@@ -21,8 +21,8 @@ Use this link to access the repository: https://github.com/cbayley-edu/ma-the-me
    ![recipe additional search criteria](./assets/recipe-additional-search-criteria.jpg)
 
 #### You can use the links to view the recipe and/or save it for later:
-   ![save or view recipe](./assets/save-view-recipe.jpg)
 ###### _Please note, there is no need to sign-up for a user account! The recipes are saved in your local browser storage._
+   ![save or view recipe](./assets/save-view-recipe.jpg)
 
 #### Your recent searches are saved as quick click buttons. Clicking any of these buttons will immediately return results:
    ![recent searches](./assets/recent-searches.jpg)
