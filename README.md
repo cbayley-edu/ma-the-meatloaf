@@ -3,7 +3,7 @@
 
 ## Overview
 
-Hey Ma! Where's the Meatloaf? was created as a tool for people who are looking for a different kind of recipe search engine. They can simply search by keyword or they can use optional, additional criteria and search based on meal type, calories, number of ingredients, and time to make. It uses a recipe search API called Edamam, which searches across various, reputable recipe pages to return excellent results every time!
+Hey Ma! Where's the Meatloaf? was created as a tool for people who are looking for a different kind of recipe search engine. They can simply search by keyword or they can use optional, additional criteria and search based on diet type, calories, number of ingredients, and time to make. It uses a recipe search API called Edamam, which searches across various, reputable recipe pages to return excellent results every time!
 ![meatloaf](./assets/meatloaf.png)
 
 ## Application
