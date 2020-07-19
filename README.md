@@ -15,20 +15,20 @@ Use this link to access the repository: https://github.com/cbayley-edu/ma-the-me
 ## Usage
 
 #### This project is useful because it has a clean and simple design and returns excellent recipes when a user searches by recipe name:
-    ![recipe search keyword](./assets/recipe-search-keyword.jpg)
+   ![recipe search keyword](./assets/recipe-search-keyword.jpg)
 
 #### You have the ability to select additional criteria as well:
-    ![recipe additional search criteria](./assets/recipe-additional-search-criteria.jpg)
+   ![recipe additional search criteria](./assets/recipe-additional-search-criteria.jpg)
 
 #### You can use the links to view the recipe and/or save it for later:
-    ![save or view recipe](./assets/save-view-recipe.jpg)
+   ![save or view recipe](./assets/save-view-recipe.jpg)
 ###### _Please note, there is no need to sign-up for a user account! The recipes are saved in your local browser storage._
 
 #### Your recent searches are saved as quick click buttons. Clicking any of these buttons will immediately return results:
-    ![recent searches](./assets/recent-searches.jpg)
+   ![recent searches](./assets/recent-searches.jpg)
 
 #### Access your saved recipes using the "Saved Recipes" link where you can view the recipe or clear it from your saved recipes:
-    ![saved recipes](./assets/saved-recipes.jpg)
+   ![saved recipes](./assets/saved-recipes.jpg)
 
 ## Authors 
 Presented by Team “Do You Want Fries With That?”
