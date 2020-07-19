@@ -42,3 +42,5 @@ Presented by Team “Do You Want Fries With That?”
 There are several updates that the team would like to make to this application to ensure a better user experience. Future releases will include items from the Ice Box as well as items acquired from user feedback.
 https://github.com/harveyb4b/where-is-the-meatloaf/projects/1
 
+## License
+![license](license.txt)
