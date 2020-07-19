@@ -43,4 +43,4 @@ There are several updates that the team would like to make to this application t
 https://github.com/harveyb4b/where-is-the-meatloaf/projects/1
 
 ## License
-![license](license.txt)
+![license](/license.txt)
