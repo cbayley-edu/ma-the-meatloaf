@@ -2,7 +2,9 @@
 ### Team Project 1
 
 ### Disclaimer
-This was our first class project and was completed as a team. The application was originally deployed to another teammate's repo. The link is noted below.
+This was our first class project and was completed as a team. The application was originally deployed to another teammate's repo.
+Application: https://harveyb4b.github.io/where-is-the-meatloaf
+GitHub Repo: https://github.com/harveyb4b/where-is-the-meatloaf
 
 ### TOC
 * [Overview](#overview)
